@@ -1,0 +1,30 @@
+main{
+
+    margin-top: 100px;
+}
+h1{
+
+    text-align: center;
+}
+form{
+
+    text-align: center;
+}
+.forma1 {
+    width: 250px;
+    height: 30px;
+    border: 2px solid #6C6C6C;
+
+}
+
+.all {
+    background-color: #EDF3FA;
+    width: 450px;
+    height: 400px;
+    margin: auto;
+    padding: 10px;
+}
+address{
+
+    text-align: center;
+}
